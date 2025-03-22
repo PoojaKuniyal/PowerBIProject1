@@ -10,3 +10,7 @@ Visualizations: Used Power BI charts like stacked bar charts, word clouds, line 
 DAX: Applied custom DAX formulas to rank categories and analyze language preferences.
 
 Data Transformation: Used techniques like unpivoting data, counting substrings, and splitting columns to ensure accurate and actionable insights.
+
+<br><br>
+Requirement: to view the interactive dashboard click/ download the view raw from here - online_courses_analysis_powerBi.pbix
+Must have PowerBI desktop installed
